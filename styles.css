@@ -98,6 +98,7 @@ h2{
     }
     .image{
      border-radius: 5px 5px 0 0;
+     height: 200px;
     }
     h1{
         text-align: center;
